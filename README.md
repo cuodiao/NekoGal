@@ -3,9 +3,9 @@ original javascript Galgame Scripter
 
 目前的进度请见[Github](https://github.com/NHibiki/NekoGal)
 
-Demo站：[点我喵](https://nekoyu.cc/NekoGal)
+Demo站：[点我喵](https://yuuno.cc/NekoGal)
 
-Nightly-Debug站：[点我喵呜](https://hibiki.pw/nekogal)(我会在第二版正式版发布后离开 www)
+<del>Nightly-Debug站：点我喵呜</del>
 
 &nbsp;
 
